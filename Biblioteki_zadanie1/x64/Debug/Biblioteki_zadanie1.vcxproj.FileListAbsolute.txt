@@ -1,1 +1,2 @@
 D:\SDA\ZAAWANSOWANY\Biblioteki_zadanie1\x64\Debug\Delegowanie konstr.exe
+D:\SDA\Biblioteki\Biblioteki_zadanie1\x64\Debug\Delegowanie konstr.exe
