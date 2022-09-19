@@ -1,0 +1,3 @@
+﻿  Parameter_pack.cpp
+D:\SDA\Biblioteki\Parameter_pack\Parameter_pack.cpp(21,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Parameter_pack.vcxproj -> D:\SDA\Biblioteki\Parameter_pack\x64\Debug\Parameter_pack.exe
